@@ -8,24 +8,24 @@ I enjoy working with data, performing exploratory analysis, identifying patterns
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Final-year **BCA student**
-- 📊 Aspiring **Data Analyst**
-- 🐍 Working with **Python** for data analysis and EDA
-- 📈 Performing EDA using **Python and R**
-- 🗄️ Using **SQL** for data querying and analysis
-- 📊 Building interactive dashboards with **Power BI and Tableau**
-- 🌐 Exploring **Web Scraping** for data collection
-- 📐 Applying **Statistics, Linear Algebra, Calculus, and Discrete Mathematics**
-- 📚 Continuously learning and improving my analytical skills
+🎓 I’m a final-year **BCA student** with a growing interest in **Data Analytics and Business Intelligence**.
+
+📊 I enjoy working with data — from **cleaning and exploratory analysis** to finding patterns and presenting insights through meaningful visualizations and dashboards.
+
+💻 I work with **Python, R, and SQL** for data analysis and use **Power BI and Tableau** to transform data into interactive and easy-to-understand reports.
+
+🌐 I also explore **Web Scraping** for collecting and preparing data, while my foundation in **Statistics, Linear Algebra, Calculus, and Discrete Mathematics** helps me approach analytical problems systematically.
+
+📚 Currently, I’m focused on strengthening my **Data Analytics skills through practical projects** and expanding my knowledge in **Data Science**.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### Programming & Query Languages
-**Python** • **R** • **SQL**
+**Python** • **R** • **SQL** • **C** • **C++** • **DSA** • **Java(J2SE)**
 
 ### Data Analysis
 **EDA with Python** • **EDA with R** • **Data Cleaning** • **Data Wrangling**
@@ -34,7 +34,7 @@ I enjoy working with data, performing exploratory analysis, identifying patterns
 **Power BI** • **Tableau** • **Data Visualization**
 
 ### Web Scraping
-**Web Scraping** • **BeautifulSoup** • **Selenium**
+**Web Scraping** • **BeautifulSoup** • **Selenium** • **Scrappy** • **MechanicalSoup** 
 
 ### Mathematics & Statistics
 **Statistics** • **Linear Algebra** • **Calculus** • **Discrete Mathematics**
@@ -70,7 +70,8 @@ To start my career as a **Data Analyst** where I can apply my skills in data ana
 
 ## 📫 Let's Connect
 
-💻 **GitHub:** [@arpandeepmaan](https://github.com/arpandeepmaan)
+💻 **GitHub:** [@arpandeepmaan](https://github.com/arpandeepmaan)  
+📧 **Email:** [arpandeepmaan611@gmail.com](mailto:arpandeepmaan611@gmail.com)
 
 ---
 
