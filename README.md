@@ -71,6 +71,7 @@ To start my career as a **Data Analyst** where I can apply my skills in data ana
 ## 📫 Let's Connect
 
 💻 **GitHub:** [@arpandeepmaan](https://github.com/arpandeepmaan)  
+💼 **LinkedIn:** [Arpandeep Maan](https://www.linkedin.com/in/arpandeep-maan-783338438/)
 📧 **Email:** [arpandeepmaan611@gmail.com](mailto:arpandeepmaan611@gmail.com)
 
 ---
