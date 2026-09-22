@@ -1,7 +1,5 @@
 # Hi, I'm Arpandeep Maan 👋
 
-### BCA Student | Aspiring AI/ML & Data Analytics Professional
-
 I am a final-year BCA student with a strong foundation in **Python, R, SQL, Statistics, Data Analysis, and Data Visualization**.
 
 I enjoy working with real-world datasets, performing exploratory data analysis, discovering patterns, and presenting insights through interactive dashboards and visualizations.
